@@ -10,6 +10,7 @@ public class Integrantes {
 
 =======
                 System.out.println("bienvenidos");
+                System.out.println("bienvenidos");
         
 >>>>>>> eb91d365602a4bf788d18e7648fcabc5692a9c4d
     }
